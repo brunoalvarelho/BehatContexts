@@ -1,6 +1,6 @@
 {
-    "name": "behatch/contexts",
-    "description": "Behatch contexts",
+    "name": "brunoalvarelho/BehatContexts",
+    "description": "Behat contexts",
     "keywords": ["BDD", "Behat", "Symfony2", "Context"],
     "type": "library",
     "license": "beerware",
@@ -31,10 +31,6 @@
 
     "config": {
         "bin-dir": "bin/"
-    },
-
-    "replace": {
-        "sanpi/behatch-contexts": "self.version"
     },
 
     "extra": {
