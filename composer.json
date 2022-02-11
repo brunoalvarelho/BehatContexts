@@ -1,5 +1,5 @@
 {
-    "name": "brunoalvarelho/BehatContexts",
+    "name": "brunoalvarelho/behat-contexts",
     "description": "Behat contexts",
     "keywords": ["BDD", "Behat", "Symfony2", "Context"],
     "type": "library",
