@@ -6,9 +6,9 @@
     "license": "beerware",
 
     "require": {
-        "php": ">=5.5",
-        "behat/behat": "^3.0.13",
-        "friends-of-behat/mink-extension": "^2.3.1",
+        "php": ">=7.4",
+        "behat/behat": "^3.8",
+        "friends-of-behat/mink-extension": "^2.6.1",
         "justinrainbow/json-schema": "^5.0",
         "symfony/property-access": "^2.3|^3.0|^4.0|^5.0",
         "symfony/http-foundation": "^2.3|^3.0|^4.0|^5.0",
